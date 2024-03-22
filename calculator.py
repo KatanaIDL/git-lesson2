@@ -1,5 +1,4 @@
-'''
-Programm calculator
+''' Programm calculator
 '''
 def calc_info():
     print('Калькулятор работает  только "+" ,"-" ,"*" ,"/" !!!!')
